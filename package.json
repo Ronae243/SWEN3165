@@ -9,14 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^12.8.0",
-    "jasmine-core": "^2.2.0",
-    "karma": "^6.1.0",
-    "karma-chrome-launcher": "^0.1.7",
-    "karma-coverage": "^2.0.3",
-    "karma-coverage-istanbul-reporter": "^3.0.3",
-    "karma-jasmine": "^0.3.8",
-    "karma-ng-html2js-preprocessor": "^0.1.0",
-    "karma-safari-launcher": "^1.0.0"
+    "cypress": "^12.8.0"
   }
 }
